@@ -1,0 +1,395 @@
+# Copyright (C) 2018 Rigorous Theme 
+# This file is distributed under the GPL 2.0.
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: RT Elementor Widgets\n"
+"POT-Creation-Date: 2019-03-12 12:09+0545\n"
+"PO-Revision-Date: 2019-03-12 12:09+0545\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: rt-elementor-widgets.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#. translators: %s: post date.
+#: includes/helpers.php:68
+#, php-format
+msgctxt "post date"
+msgid " %s"
+msgstr ""
+
+#: rt-elementor-widgets.php:108
+msgid ""
+"RT Elementor Widgets is enabled but not effective. It requires Elementor in "
+"order to work."
+msgstr ""
+
+#: rt-elementor-widgets.php:142
+msgid "RT Widgets"
+msgstr ""
+
+#: widgets/rt-blog.php:19
+msgid "Blog"
+msgstr ""
+
+#: widgets/rt-blog.php:35 widgets/rt-team.php:36 widgets/rt-woo-carousel.php:42
+msgid "Query"
+msgstr ""
+
+#: widgets/rt-blog.php:42 widgets/rt-team.php:43 widgets/rt-woo-carousel.php:49
+msgid "Post Count"
+msgstr ""
+
+#: widgets/rt-blog.php:53 widgets/rt-team.php:54 widgets/rt-woo-carousel.php:60
+msgid "Order"
+msgstr ""
+
+#: widgets/rt-blog.php:57 widgets/rt-blog.php:71 widgets/rt-team.php:58
+#: widgets/rt-team.php:72 widgets/rt-woo-carousel.php:64
+#: widgets/rt-woo-carousel.php:78
+msgid "Default"
+msgstr ""
+
+#: widgets/rt-blog.php:58 widgets/rt-team.php:59 widgets/rt-woo-carousel.php:65
+msgid "DESC"
+msgstr ""
+
+#: widgets/rt-blog.php:59 widgets/rt-team.php:60 widgets/rt-woo-carousel.php:66
+msgid "ASC"
+msgstr ""
+
+#: widgets/rt-blog.php:67 widgets/rt-team.php:68 widgets/rt-woo-carousel.php:74
+msgid "Order By"
+msgstr ""
+
+#: widgets/rt-blog.php:72 widgets/rt-team.php:73 widgets/rt-woo-carousel.php:79
+msgid "Date"
+msgstr ""
+
+#: widgets/rt-blog.php:73 widgets/rt-blog.php:129 widgets/rt-blog.php:263
+#: widgets/rt-counter.php:94 widgets/rt-counter.php:148
+#: widgets/rt-post-carousel.php:71 widgets/rt-post-carousel.php:154
+#: widgets/rt-team.php:74 widgets/rt-team.php:130 widgets/rt-team.php:225
+#: widgets/rt-testimonial.php:97 widgets/rt-testimonial.php:164
+#: widgets/rt-woo-carousel.php:80 widgets/rt-woo-carousel.php:136
+#: widgets/rt-woo-carousel.php:247
+msgid "Title"
+msgstr ""
+
+#: widgets/rt-blog.php:74 widgets/rt-team.php:75 widgets/rt-testimonial.php:85
+#: widgets/rt-testimonial.php:174 widgets/rt-woo-carousel.php:81
+msgid "Name"
+msgstr ""
+
+#: widgets/rt-blog.php:75 widgets/rt-team.php:76 widgets/rt-woo-carousel.php:82
+msgid "Modified"
+msgstr ""
+
+#: widgets/rt-blog.php:76 widgets/rt-team.php:77 widgets/rt-woo-carousel.php:83
+msgid "Author"
+msgstr ""
+
+#: widgets/rt-blog.php:77 widgets/rt-team.php:78 widgets/rt-woo-carousel.php:84
+msgid "Random"
+msgstr ""
+
+#: widgets/rt-blog.php:78 widgets/rt-team.php:79 widgets/rt-woo-carousel.php:85
+msgid "ID"
+msgstr ""
+
+#: widgets/rt-blog.php:79 widgets/rt-team.php:80 widgets/rt-woo-carousel.php:86
+msgid "Comment Count"
+msgstr ""
+
+#: widgets/rt-blog.php:80 widgets/rt-team.php:81 widgets/rt-woo-carousel.php:87
+msgid "Menu Order"
+msgstr ""
+
+#: widgets/rt-blog.php:88 widgets/rt-team.php:89 widgets/rt-woo-carousel.php:95
+msgid "Include Categories"
+msgstr ""
+
+#: widgets/rt-blog.php:89 widgets/rt-blog.php:99 widgets/rt-team.php:90
+#: widgets/rt-team.php:100 widgets/rt-woo-carousel.php:106
+msgid "Enter the categories slugs seperated by a \"comma\""
+msgstr ""
+
+#: widgets/rt-blog.php:98 widgets/rt-team.php:99
+#: widgets/rt-woo-carousel.php:105
+msgid "Exclude Categories"
+msgstr ""
+
+#: widgets/rt-blog.php:110 widgets/rt-team.php:111
+#: widgets/rt-woo-carousel.php:117
+msgid "Elements"
+msgstr ""
+
+#: widgets/rt-blog.php:116 widgets/rt-team.php:117
+#: widgets/rt-woo-carousel.php:123
+msgid "Image"
+msgstr ""
+
+#: widgets/rt-blog.php:120 widgets/rt-blog.php:133 widgets/rt-blog.php:146
+#: widgets/rt-blog.php:159 widgets/rt-team.php:121 widgets/rt-team.php:134
+#: widgets/rt-team.php:147 widgets/rt-woo-carousel.php:127
+#: widgets/rt-woo-carousel.php:140 widgets/rt-woo-carousel.php:153
+#: widgets/rt-woo-carousel.php:166
+msgid "Show"
+msgstr ""
+
+#: widgets/rt-blog.php:121 widgets/rt-blog.php:134 widgets/rt-blog.php:147
+#: widgets/rt-blog.php:160 widgets/rt-team.php:122 widgets/rt-team.php:135
+#: widgets/rt-team.php:148 widgets/rt-woo-carousel.php:128
+#: widgets/rt-woo-carousel.php:141 widgets/rt-woo-carousel.php:154
+#: widgets/rt-woo-carousel.php:167
+msgid "Hide"
+msgstr ""
+
+#: widgets/rt-blog.php:142 widgets/rt-woo-carousel.php:290
+msgid "Post Meta"
+msgstr ""
+
+#: widgets/rt-blog.php:155 widgets/rt-team.php:143
+msgid "Excerpt"
+msgstr ""
+
+#: widgets/rt-blog.php:168 widgets/rt-team.php:156
+msgid "Excerpt Length"
+msgstr ""
+
+#: widgets/rt-blog.php:181 widgets/rt-post-carousel.php:96
+#: widgets/rt-team.php:169
+msgid "View Details Text"
+msgstr ""
+
+#: widgets/rt-blog.php:183 widgets/rt-post-carousel.php:98
+#: widgets/rt-team.php:171
+msgid "View Details"
+msgstr ""
+
+#: widgets/rt-blog.php:192 widgets/rt-team.php:181
+#: widgets/rt-woo-carousel.php:176
+msgid "Wrapper"
+msgstr ""
+
+#: widgets/rt-blog.php:201 widgets/rt-woo-carousel.php:185
+msgid "Normal"
+msgstr ""
+
+#: widgets/rt-blog.php:216 widgets/rt-woo-carousel.php:200
+msgid "Border Radius"
+msgstr ""
+
+#: widgets/rt-blog.php:237 widgets/rt-woo-carousel.php:221
+msgid "Hover"
+msgstr ""
+
+#: widgets/rt-blog.php:271 widgets/rt-blog.php:313 widgets/rt-blog.php:374
+#: widgets/rt-post-carousel.php:162 widgets/rt-post-carousel.php:241
+#: widgets/rt-team.php:233 widgets/rt-team.php:275 widgets/rt-team.php:336
+#: widgets/rt-testimonial.php:157 widgets/rt-woo-carousel.php:255
+#: widgets/rt-woo-carousel.php:297
+msgid "Color"
+msgstr ""
+
+#: widgets/rt-blog.php:292 widgets/rt-team.php:254
+#: widgets/rt-woo-carousel.php:276
+msgid "Margin"
+msgstr ""
+
+#: widgets/rt-blog.php:306 widgets/rt-team.php:268
+#: widgets/rt-testimonial.php:48 widgets/rt-testimonial.php:184
+msgid "Content"
+msgstr ""
+
+#: widgets/rt-blog.php:336 widgets/rt-post-carousel.php:203
+#: widgets/rt-team.php:298
+msgid "Button"
+msgstr ""
+
+#: widgets/rt-blog.php:352 widgets/rt-post-carousel.php:219
+#: widgets/rt-team.php:314
+msgid "Background Color"
+msgstr ""
+
+#: widgets/rt-blog.php:363 widgets/rt-post-carousel.php:230
+#: widgets/rt-team.php:325
+msgid "Background Hover Color"
+msgstr ""
+
+#: widgets/rt-blog.php:386 widgets/rt-post-carousel.php:253
+#: widgets/rt-team.php:348
+msgid "Hover Color"
+msgstr ""
+
+#: widgets/rt-blog.php:398 widgets/rt-post-carousel.php:265
+#: widgets/rt-team.php:360
+msgid "Border Color"
+msgstr ""
+
+#: widgets/rt-counter.php:20
+msgid "RT:Counter"
+msgstr ""
+
+#: widgets/rt-counter.php:38
+msgid "Counter"
+msgstr ""
+
+#: widgets/rt-counter.php:45
+msgid "Starting Number"
+msgstr ""
+
+#: widgets/rt-counter.php:54
+msgid "Ending Number"
+msgstr ""
+
+#: widgets/rt-counter.php:63
+msgid "Number Prefix"
+msgstr ""
+
+#: widgets/rt-counter.php:73
+msgid "Number Suffix"
+msgstr ""
+
+#: widgets/rt-counter.php:76
+msgid "Plus"
+msgstr ""
+
+#: widgets/rt-counter.php:83
+msgid "Animation Duration"
+msgstr ""
+
+#: widgets/rt-counter.php:97 widgets/rt-counter.php:98
+msgid "Cool Number"
+msgstr ""
+
+#: widgets/rt-counter.php:105
+msgid "Icon"
+msgstr ""
+
+#: widgets/rt-counter.php:115
+msgid "Number"
+msgstr ""
+
+#: widgets/rt-counter.php:123 widgets/rt-counter.php:156
+#: widgets/rt-counter.php:190
+msgid "Text Color"
+msgstr ""
+
+#: widgets/rt-counter.php:182
+msgid "Font Icon"
+msgstr ""
+
+#: widgets/rt-post-carousel.php:19 widgets/rt-post-carousel.php:38
+#: widgets/rt-post-carousel.php:143
+msgid "Carousel"
+msgstr ""
+
+#: widgets/rt-post-carousel.php:48 widgets/rt-testimonial.php:61
+msgid "Choose Image"
+msgstr ""
+
+#: widgets/rt-post-carousel.php:84
+msgid "Sub Title"
+msgstr ""
+
+#: widgets/rt-post-carousel.php:106 widgets/rt-testimonial.php:109
+msgid "Link"
+msgstr ""
+
+#: widgets/rt-post-carousel.php:111 widgets/rt-testimonial.php:114
+msgid "https://your-link.com"
+msgstr ""
+
+#: widgets/rt-post-carousel.php:118 widgets/rt-testimonial.php:121
+msgid "Alignment"
+msgstr ""
+
+#: widgets/rt-post-carousel.php:123 widgets/rt-testimonial.php:126
+msgid "Left"
+msgstr ""
+
+#: widgets/rt-post-carousel.php:127 widgets/rt-testimonial.php:130
+msgid "Center"
+msgstr ""
+
+#: widgets/rt-post-carousel.php:131 widgets/rt-testimonial.php:134
+msgid "Right"
+msgstr ""
+
+#: widgets/rt-post-carousel.php:182
+msgid "Sub Title Color"
+msgstr ""
+
+#: widgets/rt-team.php:20
+msgid "Team"
+msgstr ""
+
+#: widgets/rt-team.php:190
+msgid "Padding"
+msgstr ""
+
+#: widgets/rt-team.php:203
+msgid "Columns Padding"
+msgstr ""
+
+#: widgets/rt-testimonial.php:19 widgets/rt-testimonial.php:38
+msgid "Testimonial"
+msgstr ""
+
+#: widgets/rt-testimonial.php:146
+msgid "Repeater List"
+msgstr ""
+
+#: widgets/rt-woo-carousel.php:23
+msgid "Woo Carousel"
+msgstr ""
+
+#: widgets/rt-woo-carousel.php:96
+msgid "Enter the product categories slugs seperated by a \"comma\""
+msgstr ""
+
+#: widgets/rt-woo-carousel.php:149
+msgid "Price"
+msgstr ""
+
+#: widgets/rt-woo-carousel.php:162
+msgid "Rating"
+msgstr ""
+
+#: widgets/rt-woo-carousel.php:402 widgets/rt-woo-carousel.php:423
+msgid "SOLD OUT"
+msgstr ""
+
+#: widgets/rt-woo-carousel.php:410
+#, php-format
+msgid "% off Sale!"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "RT Elementor Widgets"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://rigorousthemes.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Add some new widgets to the popular free page builder Elementor."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Rigorous Theme"
+msgstr ""
